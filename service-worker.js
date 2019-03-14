@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "https://app.codebanca.com/precache-manifest.f095bff04aec724a488da769fef42e08.js"
+  "https://app.codebanca.com/precache-manifest.3ff7751485b6f86eea9dd850e7ebd163.js"
 );
 
 workbox.clientsClaim();
