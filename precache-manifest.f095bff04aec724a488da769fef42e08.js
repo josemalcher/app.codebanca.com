@@ -1,55 +1,55 @@
 self.__precacheManifest = [
   {
-    "revision": "bc833e725c137257c2c42a789845d82f",
-    "url": "https://app.codebanca.com/static/media/roboto-latin-900italic.bc833e72.woff"
+    "revision": "7b770d6c53423deb1a8e49d3c9175184",
+    "url": "https://app.codebanca.com/static/media/roboto-latin-900italic.7b770d6c.woff2"
   },
   {
-    "revision": "621f16545daa6b3f8e12",
-    "url": "https://app.codebanca.com/static/js/0.53100600.chunk.js"
+    "revision": "db300de501edc90f04c3",
+    "url": "https://app.codebanca.com/static/js/0.a1f23b21.chunk.js"
   },
   {
-    "revision": "4db227710411b6e090aa",
-    "url": "https://app.codebanca.com/static/js/2.45b74084.chunk.js"
+    "revision": "8715fa66b5b37e7e4c23",
+    "url": "https://app.codebanca.com/static/js/2.d5e43d60.chunk.js"
   },
   {
-    "revision": "3244510b55e02d96ee03",
-    "url": "https://app.codebanca.com/static/js/main.aff714ba.chunk.js"
+    "revision": "91c3f748d199b45ee07a",
+    "url": "https://app.codebanca.com/static/js/main.84b3e3ae.chunk.js"
   },
   {
-    "revision": "3c7a2240ab09fc5bf71d",
-    "url": "https://app.codebanca.com/static/js/runtime~main.86e691b5.js"
+    "revision": "33884dbce0d9368181b9",
+    "url": "https://app.codebanca.com/static/js/runtime~main.db1e8faf.js"
   },
   {
     "revision": "ce98a96de44b2223b7af033587bf96a4",
     "url": "https://app.codebanca.com/static/media/webtools_weekly.ce98a96d.png"
   },
   {
-    "revision": "cea0bf050e2dcafeac8b",
-    "url": "https://app.codebanca.com/static/js/5.e514d161.chunk.js"
+    "revision": "beb8c3aa542df8e656c7",
+    "url": "https://app.codebanca.com/static/js/5.91c52249.chunk.js"
   },
   {
-    "revision": "8d9292b4b92d849c2b8f",
-    "url": "https://app.codebanca.com/static/js/6.ddadfc9c.chunk.js"
+    "revision": "b6845803e5a5346df19e",
+    "url": "https://app.codebanca.com/static/js/6.ae3ad867.chunk.js"
   },
   {
-    "revision": "f036986ed289be89f55c",
-    "url": "https://app.codebanca.com/static/js/7.261798f3.chunk.js"
+    "revision": "9116bab802076aa7a3ea",
+    "url": "https://app.codebanca.com/static/js/7.8a03bafe.chunk.js"
   },
   {
-    "revision": "620a091948c2ddd0ee32",
-    "url": "https://app.codebanca.com/static/js/8.52ff2783.chunk.js"
+    "revision": "26a622328acc7d4caebe",
+    "url": "https://app.codebanca.com/static/js/8.73b2194d.chunk.js"
   },
   {
-    "revision": "f2f0518460f8e41f8fa7",
-    "url": "https://app.codebanca.com/static/js/9.f7953ee5.chunk.js"
+    "revision": "ccf51868f4783e8c1e78",
+    "url": "https://app.codebanca.com/static/js/9.10a651a1.chunk.js"
   },
   {
-    "revision": "b98b8f5fd52aefa5b170",
-    "url": "https://app.codebanca.com/static/js/10.08d6f6c1.chunk.js"
+    "revision": "b3a7c2c6c4d0aa87e903",
+    "url": "https://app.codebanca.com/static/js/10.b59651f0.chunk.js"
   },
   {
-    "revision": "0fa0070ad83f4d6470c6",
-    "url": "https://app.codebanca.com/static/js/11.069ba163.chunk.js"
+    "revision": "d2a3cab66b9cdeea7e62",
+    "url": "https://app.codebanca.com/static/js/11.f245d9fd.chunk.js"
   },
   {
     "revision": "55536c8e9e9a532651e3cf374f290ea3",
@@ -68,32 +68,32 @@ self.__precacheManifest = [
     "url": "https://app.codebanca.com/static/media/roboto-latin-500.28546717.woff2"
   },
   {
-    "revision": "19b7a0adfdd4f808b53af7e2ce2ad4e5",
-    "url": "https://app.codebanca.com/static/media/roboto-latin-900.19b7a0ad.woff2"
-  },
-  {
     "revision": "037d830416495def72b7881024c14b7b",
     "url": "https://app.codebanca.com/static/media/roboto-latin-700.037d8304.woff2"
   },
   {
-    "revision": "6232f43d15b0e7a0bf0fe82e295bdd06",
-    "url": "https://app.codebanca.com/static/media/roboto-latin-100italic.6232f43d.woff2"
+    "revision": "19b7a0adfdd4f808b53af7e2ce2ad4e5",
+    "url": "https://app.codebanca.com/static/media/roboto-latin-900.19b7a0ad.woff2"
   },
   {
     "revision": "e9dbbe8a693dd275c16d32feb101f1c1",
     "url": "https://app.codebanca.com/static/media/roboto-latin-100.e9dbbe8a.woff"
   },
   {
-    "revision": "a1471d1d6431c893582a5f6a250db3f9",
-    "url": "https://app.codebanca.com/static/media/roboto-latin-300.a1471d1d.woff"
+    "revision": "6232f43d15b0e7a0bf0fe82e295bdd06",
+    "url": "https://app.codebanca.com/static/media/roboto-latin-100italic.6232f43d.woff2"
+  },
+  {
+    "revision": "d704bb3d579b7d5e40880c75705c8a71",
+    "url": "https://app.codebanca.com/static/media/roboto-latin-100italic.d704bb3d.woff"
   },
   {
     "revision": "d69924b98acd849cdeba9fbff3f88ea6",
     "url": "https://app.codebanca.com/static/media/roboto-latin-300italic.d69924b9.woff2"
   },
   {
-    "revision": "d704bb3d579b7d5e40880c75705c8a71",
-    "url": "https://app.codebanca.com/static/media/roboto-latin-100italic.d704bb3d.woff"
+    "revision": "a1471d1d6431c893582a5f6a250db3f9",
+    "url": "https://app.codebanca.com/static/media/roboto-latin-300.a1471d1d.woff"
   },
   {
     "revision": "210a7c781f5a354a0e4985656ab456d9",
@@ -112,14 +112,6 @@ self.__precacheManifest = [
     "url": "https://app.codebanca.com/static/media/roboto-latin-400italic.9680d5a0.woff"
   },
   {
-    "revision": "510dec37fa69fba39593e01a469ee018",
-    "url": "https://app.codebanca.com/static/media/roboto-latin-500italic.510dec37.woff2"
-  },
-  {
-    "revision": "cf6613d1adf490972c557a8e318e0868",
-    "url": "https://app.codebanca.com/static/media/roboto-latin-700.cf6613d1.woff"
-  },
-  {
     "revision": "de8b7431b74642e830af4d4f4b513ec9",
     "url": "https://app.codebanca.com/static/media/roboto-latin-500.de8b7431.woff"
   },
@@ -128,24 +120,32 @@ self.__precacheManifest = [
     "url": "https://app.codebanca.com/static/media/roboto-latin-500italic.ffcc050b.woff"
   },
   {
+    "revision": "510dec37fa69fba39593e01a469ee018",
+    "url": "https://app.codebanca.com/static/media/roboto-latin-500italic.510dec37.woff2"
+  },
+  {
+    "revision": "cf6613d1adf490972c557a8e318e0868",
+    "url": "https://app.codebanca.com/static/media/roboto-latin-700.cf6613d1.woff"
+  },
+  {
     "revision": "010c1aeee3c6d1cbb1d5761d80353823",
     "url": "https://app.codebanca.com/static/media/roboto-latin-700italic.010c1aee.woff2"
-  },
-  {
-    "revision": "846d1890aee87fde5d8ced8eba360c3a",
-    "url": "https://app.codebanca.com/static/media/roboto-latin-700italic.846d1890.woff"
-  },
-  {
-    "revision": "7b770d6c53423deb1a8e49d3c9175184",
-    "url": "https://app.codebanca.com/static/media/roboto-latin-900italic.7b770d6c.woff2"
   },
   {
     "revision": "8c2ade503b34e31430d6c98aa29a52a3",
     "url": "https://app.codebanca.com/static/media/roboto-latin-900.8c2ade50.woff"
   },
   {
-    "revision": "934817204e6db2786857",
-    "url": "https://app.codebanca.com/static/js/1.14c8e30b.chunk.js"
+    "revision": "846d1890aee87fde5d8ced8eba360c3a",
+    "url": "https://app.codebanca.com/static/media/roboto-latin-700italic.846d1890.woff"
+  },
+  {
+    "revision": "bc833e725c137257c2c42a789845d82f",
+    "url": "https://app.codebanca.com/static/media/roboto-latin-900italic.bc833e72.woff"
+  },
+  {
+    "revision": "e593dc1c3f1f048bdad7",
+    "url": "https://app.codebanca.com/static/js/1.a4ce771a.chunk.js"
   },
   {
     "revision": "b07a5a29b9a9bf2ec41543606d250128",
@@ -280,11 +280,11 @@ self.__precacheManifest = [
     "url": "https://app.codebanca.com/static/media/webops_weekly.b2f02efb.png"
   },
   {
-    "revision": "cea0bf050e2dcafeac8b",
+    "revision": "beb8c3aa542df8e656c7",
     "url": "https://app.codebanca.com/static/css/5.2b497bdf.chunk.css"
   },
   {
-    "revision": "bbd551c085f2914f768d37d1f947c85a",
+    "revision": "bebe05e12d9f97ea0875e22025649dee",
     "url": "https://app.codebanca.com/index.html"
   }
 ];
