@@ -1,0 +1,20 @@
+{
+  "short_name": "codebanca",
+  "name": "codebanca",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "favicon.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#003244",
+  "background_color": "#003b4f"
+}
